@@ -44,11 +44,10 @@ Install dependencies with:
 
 pip install -r requirements.txt
 
-File Structure
-tsp-simulated-annealing-chaos
-├── tsp_solver.py         # Main implementation
-├── README.md             # You are here
-└── requirements.txt      # Dependencies
+File Structure: tsp-simulated-annealing-chaos
+1. tsp_solver.py         # Main implementation
+2. README.md             # You are here
+3. requirements.txt      # Dependencies
 
 Try It Yourself
 You can run the script directly:
