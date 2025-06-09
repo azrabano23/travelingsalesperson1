@@ -50,21 +50,17 @@ File Structure: tsp-simulated-annealing-chaos
 3. requirements.txt      # Dependencies
 
 Try It Yourself
-You can run the script directly:
 
-python tsp_solver.py
+You can run the script directly: python tsp_solver.py
 
 Feel free to tweak parameters like:
 - Number of cities
 - Initial temperature
 - Cooling rate
-
-Logistic map seed values
+- Logistic map seed values
 
 Inspiration
-- Simulated Annealing: Kirkpatrick, S. et al. (1983)
-
-Chaos Theory & Optimization: Logistic Map-based approaches in AI
+- Simulated Annealing: Kirkpatrick, S. et al. (1983): Chaos Theory & Optimization: Logistic Map-based approaches in AI
 
 Author Notes
 This project blends the principles of classical optimization, chaotic systems, and AI-inspired search to offer a powerful heuristic for solving hard problems. Great for educational purposes and experimentation in hybrid optimization techniques.
