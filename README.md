@@ -1,4 +1,4 @@
-# travelingsalesperson1
+# Traveling Salesperson
 
 Traveling Salesperson Problem (TSP) Solver with Simulated Annealing & Chaos Theory
 This project tackles the classic Traveling Salesperson Problem (TSP) using an optimization technique inspired by Simulated Annealing, enhanced by chaotic logistic map-based swapping.
