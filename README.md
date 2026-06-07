@@ -45,9 +45,9 @@ Install dependencies with:
 pip install -r requirements.txt
 
 File Structure: tsp-simulated-annealing-chaos
-1. tsp_solver.py         # Main implementation
-2. README.md             # You are here
-3. requirements.txt      # Dependencies
+1. tsp_solver.py # Main implementation
+2. README.md # You are here
+3. requirements.txt # Dependencies
 
 Try It Yourself
 
@@ -63,5 +63,5 @@ Inspiration
 - Simulated Annealing: Kirkpatrick, S. et al. (1983): Chaos Theory & Optimization: Logistic Map-based approaches in AI
 
 Author Notes
-This project blends the principles of classical optimization, chaotic systems, and AI-inspired search to offer a powerful heuristic for solving hard problems. Great for educational purposes and experimentation in hybrid optimization techniques.
+This project blends the principles of classical optimization, chaotic systems, and AI-inspired search to offer a heuristic for solving hard problems. Great for educational purposes and experimentation in hybrid optimization techniques.
 
